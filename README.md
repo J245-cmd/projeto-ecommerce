@@ -1,1 +1,1 @@
-#projeto-ecommerce com Git Portable (HTTPS)
+#projeto E-commerce
